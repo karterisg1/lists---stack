@@ -1,0 +1,8 @@
+List Create(void);			// Πολυπλοκότητα O(1)
+void Print(List);			// Πολυπλοκότητα O(N), όπου Ν = αριθμός στοιχείων ουράς
+int DeQueue(List *);		// Πολυπλοκότητα O(1)
+int Pop(List *);			// Πολυπλοκότητα O(1)
+void EnQueue(List *, int);	// Πολυπλοκότητα O(1)
+void Push(List *, int);		// Πολυπλοκότητα O(1)
+int SizeOf(List);			// Πολυπλοκότητα O(N), όπου Ν = αριθμός στοιχείων ουράς
+int IsEmpty(List);			// Πολυπλοκότητα O(1)

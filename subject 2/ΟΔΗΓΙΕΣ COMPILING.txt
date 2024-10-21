@@ -1,0 +1,3 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c dlist.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program2.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p2 dlist.o program2.o

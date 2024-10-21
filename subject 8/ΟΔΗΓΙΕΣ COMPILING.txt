@@ -1,0 +1,3 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c pq.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program8.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p8 pq.o program8.o

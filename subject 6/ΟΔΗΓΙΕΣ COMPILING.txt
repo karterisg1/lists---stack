@@ -1,0 +1,3 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c stack.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program6.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p6 stack.o program6.o
